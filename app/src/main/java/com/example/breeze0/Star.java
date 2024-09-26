@@ -21,4 +21,4 @@ public class Star extends Shape {
     public void displayStarInfo() {
         System.out.println("Star located at (" + x + ", " + y + ") with " + points + " points and color " + color);
     }
-}
+
